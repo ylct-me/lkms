@@ -1,0 +1,152 @@
+{
+  "zh": "简体中文",
+  "warning": "警告",
+  "yes": "是",
+  "no": "否",
+  "cancel": "取消",
+  "save": "保存",
+  "rename": "重命名",
+  "delete": "删除",
+  "user": "用户",
+  "guest": "游客",
+  "avatar": "头像",
+  "email": "邮箱",
+  "login": "登录",
+  "logout": "注销",
+  "please_login_first": "请先登录再访问",
+  "confirm_logout": "你确定要注销吗?",
+  "confirm_delete": "你确定要删除这个{0}吗?",
+  "register": "注册",
+  "username": "用户名",
+  "password": "密码",
+  "user_profile": "用户资料",
+  "register_account": "注册账户",
+  "login_account": "登录账户",
+  "home": "首页",
+  "index": "首页",
+  "go_home": "回到首页",
+  "projects": "项目",
+  "search_projects_notes": "搜索项目/笔记",
+  "search_teams": "搜索团队",
+  "project_name": "项目名",
+  "team": "团队",
+  "teams": "团队",
+  "my_teams": "我的团队",
+  "teams_overview": "团队概述",
+  "team_notes": "团队笔记",
+  "team_note": "团队笔记",
+  "my_notes": "我的笔记",
+  "current_notes": "当前笔记",
+  "current_note": "当前笔记",
+  "new_note_name": "新笔记名",
+  "new_name": "新的名字",
+  "recent": "近期笔记",
+  "comment": "评论",
+  "comments": "评论",
+  "network_error": "后端服务器可能已下线",
+  "server_error": "服务器可能已下线",
+  "not_found": "页面未找到",
+  "access_denied": "访问受限",
+  "users": "用户",
+  "user_list": "用户列表",
+  "edit_user": "编辑用户",
+  "create_user": "创建用户",
+  "create_team": "创建团队",
+  "create_project": "新建项目",
+  "create_note": "新建笔记",
+  "edit_team": "编辑团队",
+  "rule": {
+    "required": "请输入{0}",
+    "valid": "{0}应为正确格式",
+    "minLength": "{0}的长度必须大于{1}",
+    "uppercaseChar": "{0}必须至少有1个大写字母",
+    "number": "{0}必须至少有1个数字",
+    "specialChar": "{0}必须至少有1个特殊字符 [!@#$%]"
+  },
+  "Object does not exist": "对象不存在",
+  "object_not_found": "{0}不存在",
+  "Unauthorized": "认证失败",
+  "CREATE_TEAM_ALREADY_EXISTS": "要创建的团队已经存在",
+  "JOIN_TEAM_ALREADY_JOINED": "要加入的团队已经加入了",
+  "LEAVE_TEAM_ALREADY_LEAVED": "要离开的团队已经离开了",
+  "REGISTER_USER_ALREADY_EXISTS": "要注册的用户已经存在",
+  "LOGIN_BAD_CREDENTIALS": "登录验证失败",
+  "NOTE_IS_EDITING": "笔记正在被他人编辑中",
+  "logout_successful": "注销成功",
+  "save_note_successful": "保存笔记成功",
+  "dataTable": {
+    "name": "团队名称",
+    "description": "团队描述",
+    "creator": "创建者",
+    "members": "团队成员",
+    "actions": "操作",
+    "join": "加入",
+    "leave": "离开",
+    "edit": "编辑",
+    "delete": "删除"
+  },
+  "$vuetify": {
+    "badge": "徽章",
+    "close": "关闭",
+    "dataIterator": {
+      "noResultsText": "没有符合条件的结果",
+      "loadingText": "加载中……"
+    },
+    "dataTable": {
+      "itemsPerPageText": "每页数目：",
+      "ariaLabel": {
+        "sortDescending": "：降序排列。",
+        "sortAscending": "：升序排列。",
+        "sortNone": "：未排序。",
+        "activateNone": "点击以移除排序。",
+        "activateDescending": "点击以降序排列。",
+        "activateAscending": "点击以升序排列。"
+      },
+      "sortBy": "排序方式"
+    },
+    "dataFooter": {
+      "itemsPerPageText": "每页数目：",
+      "itemsPerPageAll": "全部",
+      "nextPage": "下一页",
+      "prevPage": "上一页",
+      "firstPage": "首页",
+      "lastPage": "尾页",
+      "pageText": "{0}-{1} 共 {2}"
+    },
+    "datePicker": {
+      "itemsSelected": "已选择 {0}",
+      "nextMonthAriaLabel": "下个月",
+      "nextYearAriaLabel": "明年",
+      "prevMonthAriaLabel": "前一个月",
+      "prevYearAriaLabel": "前一年"
+    },
+    "noDataText": "没有数据",
+    "carousel": {
+      "prev": "上一张",
+      "next": "下一张",
+      "ariaLabel": {
+        "delimiter": "Carousel slide {0} of {1}"
+      }
+    },
+    "calendar": {
+      "moreEvents": "还有 {0} 项"
+    },
+    "fileInput": {
+      "counter": "{0} 个文件",
+      "counterSize": "{0} 个文件（共 {1}）"
+    },
+    "timePicker": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "pagination": {
+      "ariaLabel": {
+        "wrapper": "分页导航",
+        "next": "下一页",
+        "previous": "上一页",
+        "page": "转到页面 {0}",
+        "currentPage": "当前页 {0}"
+      }
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "en": "English",
+  "warning": "Warning",
+  "yes": "Yes",
+  "no": "No",
+  "cancel": "Cancel",
+  "save": "Save",
+  "rename": "Rename",
+  "delete": "Delete",
+  "user": "user|users",
+  "guest": "Guest",
+  "avatar": "Avatar",
+  "email": "Email",
+  "login": "Login",
+  "logout": "Logout",
+  "please_login_first": "Please login first and then access the page",
+  "confirm_logout": "Are you sure to logout?",
+  "confirm_delete": "Are you sure to delete this {0}?",
+  "register": "Register",
+  "username": "Username",
+  "password": "Password",
+  "user_profile": "User Profile",
+  "register_account": "Register account",
+  "login_account": "Login account",
+  "home": "Home",
+  "index": "Index",
+  "projects": "Projects",
+  "search_projects_notes": "Search Projects/Notes",
+  "search_teams": "Search Teams",
+  "project_name": "Project Name",
+  "team": "team",
+  "teams": "Teams",
+  "my_teams": "My Teams",
+  "teams_overview": "Teams Overview",
+  "team_notes": "Team Notes",
+  "team_note": "Team Note",
+  "my_notes": "My Notes",
+  "current_notes": "Current Notes",
+  "current_note": "Current Note",
+  "new_note_name": "New Note Name",
+  "new_name": "New Name",
+  "go_home": "Go Home",
+  "recent": "Recent",
+  "comment": "Comment",
+  "comments": "Comments",
+  "network_error": "Network Error",
+  "server_error": "the server is down",
+  "not_found": "the page not found",
+  "access_denied": "access denied",
+  "user_list": "User List",
+  "edit_user": "Edit User",
+  "create_user": "Create User",
+  "create_team": "Create Team",
+  "create_project": "Create Project",
+  "create_note": "Create Note",
+  "edit_team": "Edit Team",
+  "rule": {
+    "required": "{0} is required",
+    "valid": "{0} must be valid",
+    "minLength": "{0} must be greater than {1} characters",
+    "uppercaseChar": "{0} must have one uppercase character",
+    "number": "{0} must have one number",
+    "specialChar": "{0} must have one special character [!@#$%]"
+  },
+  "Object does not exist": "Object does not exist",
+  "object_not_found": "{0} does not exist",
+  "Unauthorized": "Unauthorized",
+  "CREATE_TEAM_ALREADY_EXISTS": "CREATE_TEAM_ALREADY_EXISTS",
+  "JOIN_TEAM_ALREADY_JOINED": "JOIN_TEAM_ALREADY_JOINED",
+  "LEAVE_TEAM_ALREADY_LEAVED": "LEAVE_TEAM_ALREADY_LEAVED",
+  "REGISTER_USER_ALREADY_EXISTS": "REGISTER_USER_ALREADY_EXISTS",
+  "LOGIN_BAD_CREDENTIALS": "LOGIN_BAD_CREDENTIALS",
+  "NOTE_IS_EDITING": "NOTE_IS_EDITING",
+  "logout_successful": "Logout successful",
+  "save_note_successful": "Save note successful",
+  "dataTable": {
+    "name": "Name",
+    "description": "Description",
+    "creator": "Creator",
+    "members": "Members",
+    "actions": "Actions",
+    "join": "Join",
+    "leave": "Leave",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "$vuetify": {
+    "badge": "Badge",
+    "close": "Close",
+    "dataIterator": {
+      "noResultsText": "No matching records found",
+      "loadingText": "Loading items..."
+    },
+    "dataTable": {
+      "itemsPerPageText": "Rows per page:",
+      "ariaLabel": {
+        "sortDescending": "Sorted descending.",
+        "sortAscending": "Sorted ascending.",
+        "sortNone": "Not sorted.",
+        "activateNone": "Activate to remove sorting.",
+        "activateDescending": "Activate to sort descending.",
+        "activateAscending": "Activate to sort ascending."
+      },
+      "sortBy": "Sort by"
+    },
+    "dataFooter": {
+      "itemsPerPageText": "Items per page:",
+      "itemsPerPageAll": "All",
+      "nextPage": "Next page",
+      "prevPage": "Previous page",
+      "firstPage": "First page",
+      "lastPage": "Last page",
+      "pageText": "{0}-{1} of {2}"
+    },
+    "datePicker": {
+      "itemsSelected": "{0} selected",
+      "nextMonthAriaLabel": "Next month",
+      "nextYearAriaLabel": "Next year",
+      "prevMonthAriaLabel": "Previous month",
+      "prevYearAriaLabel": "Previous year"
+    },
+    "noDataText": "No data available",
+    "carousel": {
+      "prev": "Previous visual",
+      "next": "Next visual",
+      "ariaLabel": {
+        "delimiter": "Carousel slide {0} of {1}"
+      }
+    },
+    "calendar": {
+      "moreEvents": "{0} more"
+    },
+    "fileInput": {
+      "counter": "{0} files",
+      "counterSize": "{0} files ({1} in total)"
+    },
+    "timePicker": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "pagination": {
+      "ariaLabel": {
+        "wrapper": "Pagination Navigation",
+        "next": "Next page",
+        "previous": "Previous page",
+        "page": "Goto Page {0}",
+        "currentPage": "Current Page, Page {0}"
+      }
+    }
+  }
+}
